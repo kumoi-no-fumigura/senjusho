@@ -3446,6 +3446,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 274,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-senjusho",
   "work": "撰集抄",
@@ -3458,7 +3462,7 @@
   "blocks": 299,
   "chars": 120103,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 274,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T12:13:14+09:00"
